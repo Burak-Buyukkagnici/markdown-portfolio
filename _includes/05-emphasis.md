@@ -1,1 +1,10 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+# Hello World
+
+_This is my page (bbk)._
+
+__Here is my favorites:__
+- A
+- B
+- C
+- D
+- E
