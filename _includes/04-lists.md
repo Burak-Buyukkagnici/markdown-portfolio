@@ -2,3 +2,5 @@
 - Reading
 - Swimming
 - Walking
+- Movie
+- Series
